@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XWkX4K77/rnHHpFfIPNYQ2qr3ueLJXmWIsb6ZW3akOR5P1WNESNrXzPh7PWeHQPNiOkTwRTVD/325Ctsd1M6TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\Lập trình mạng căn bản\\ThucHanh\\Lab1\\client\\client.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

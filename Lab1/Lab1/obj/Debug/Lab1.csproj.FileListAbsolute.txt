@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\obj\Debug\Lab1.TinhToan_1.resources
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\obj\Debug\Lab1.Max_Min_2.resources
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\obj\Debug\Lab1.readNumber_3.resources
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\obj\Debug\Lab1.convert_4.resources
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab1\Lab1\obj\Debug\Lab1.Management.resources
