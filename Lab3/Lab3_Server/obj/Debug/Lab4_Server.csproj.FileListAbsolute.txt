@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab4_Server\bin\Debug\Lab4_Server.exe.config
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab4_Server\bin\Debug\Lab4_Server.exe
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab4_Server\bin\Debug\Lab4_Server.pdb
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab4_Server\obj\Debug\Lab4_Server.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab4_Server\obj\Debug\Lab4_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab4_Server\obj\Debug\Lab4_Server.Form1.resources
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab4_Server\obj\Debug\Lab4_Server.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab4_Server\obj\Debug\Lab4_Server.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab4_Server\obj\Debug\Lab4_Server.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab4_Server\obj\Debug\Lab4_Server.exe
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab4_Server\obj\Debug\Lab4_Server.pdb
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab4_Server\obj\Debug\Lab4_Server.Bai1_server.resources
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab4_Server\obj\Debug\Lab4_Server.Bai2_server.resources
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab4_Server\obj\Debug\Lab4_Server.Bai3_servercs.resources
+C:\Users\ADMIN\Documents\Lập trình mạng căn bản\ThucHanh\Lab4_Server\obj\Debug\Lab4_Server.Bai4_server.resources
